@@ -1,0 +1,3 @@
+node_modules/
+files/*.gz
+files/*_decompressed*.txt
